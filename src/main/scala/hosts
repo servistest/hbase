@@ -1,0 +1,16 @@
+#for standalone mode
+#172.19.0.6      hbase
+#172.19.0.3    nodemanager
+#172.19.0.5    datanode
+#172.19.0.2    resourcemanager
+#172.19.0.4    namenode
+
+#for standalone mode
+172.19.0.5 datanode
+172.19.0.9 namenode
+172.19.0.7 nodemanager
+172.19.0.2 resourcemanager
+172.19.0.8 historyserver
+172.19.0.6 hbase-master
+172.19.0.4 zoo
+172.19.0.3 hbase-regionserver

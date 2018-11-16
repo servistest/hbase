@@ -24,10 +24,4 @@ libraryDependencies ++= Seq(
 )
 
 
-//libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.4.0"
-//libraryDependencies += "org.apache.hbase" % "hbase-client" % "2.0.0"
-//libraryDependencies +="org.apache.hadoop" % "hadoop-core" % "1.2.1"
-//libraryDependencies +="org.apache.hbase" % "hbase" % "2.0.0"
-//
-
 //docker exec -it hbase bash
