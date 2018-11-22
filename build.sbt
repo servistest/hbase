@@ -14,6 +14,7 @@ libraryDependencies ++= Seq(
 // "org.apache.spark" %% "spark-graphx" % "2.0.0"  ,
 // "org.apache.spark" %% "spark-mllib" % "2.0.0",
 // "org.apache.hbase" % "hbase-spark" % "2.0.0-alpha3",
+// "org.apache.hbase" % "hbase-spark" % "1.2.0-cdh5.16.0",
  "org.apache.hbase" % "hbase-common" % "1.2.0",
  "org.apache.hbase" % "hbase-server" % "1.2.0",
  "org.apache.hbase" % "hbase-client" % "1.2.0",
